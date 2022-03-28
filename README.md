@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cemil</h1>
-<h3 align="center">🏢Student at Ege University 
-<h4 align="center">👨‍💻Computer Engineering Department 🎓2023-2024 🇹🇷🇧🇬</h3>
+<h3 align="center">🏢Student at Ege University </h3>
+<h4 align="center">👨‍💻Computer Engineering Department 🎓2023-2024 </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
