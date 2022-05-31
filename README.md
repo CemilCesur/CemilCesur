@@ -3,7 +3,7 @@
 <h4 align="center">👨‍💻Computer Engineering Department </h4>
 <h5 align="center"> 🎓2023</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemilcesur&label=Profile%20views&color=0e75b6&style=flat" alt="cemilcesur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemilcesur&label=Profile%20views&color=98cd00&style=flat" alt="cemilcesur" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
