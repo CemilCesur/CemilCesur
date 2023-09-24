@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cemil</h1>
-<h3 align="center">🏢Student at Ege University </h3>
+<h3 align="center">🏢Graduate at Ege University </h3>
 <h4 align="center">👨‍💻Computer Engineering Department </h4>
-<h5 align="center"> 🎓2023</h5>
+<h5 align="center"> 🎓10.07.2023 </h5>
 
 
 
